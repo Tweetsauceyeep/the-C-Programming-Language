@@ -48,3 +48,24 @@ int main(void)
 int - specifies that the function returns an integer
 void - indicates func has no arguments
 return 0: - causes the main function to terminate + indicates that the main function returns a value of 0
+
+### Variables:
+- variables with the same type can have combined declarations.
+```
+int height, length, width, volume;
+float profit, loss;
+
+//Assignment
+int height;
+height = 8;
+// floats
+float profit;
+profit = 2500.48f;
+
+```
+
+### Reading input:
+- scanf function.
+example: `scanf("%d", &i);`
+- reads an integer and stores it into variable "i".
+
