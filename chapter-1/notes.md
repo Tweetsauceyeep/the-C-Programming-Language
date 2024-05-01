@@ -26,3 +26,25 @@ changed book to C programming: a modern approach cuz like im rusty
     - THe modified program goes to a compiler, translating it into machine instructions (object code)
 - *Linking*:
     - combines object code produced by the compiler 
+
+### Directives
+- Commands intended for the preprocessor - Directives
+ex. `#include <stdio.h>`
+
+### Functions:
+- Procedures/subroutines
+
+ex. 
+```
+#include <stdio.h>
+
+int main(void)
+{
+    printf("jlasdjaslkdjsakldj")
+    return 0;
+}
+```
+
+int - specifies that the function returns an integer
+void - indicates func has no arguments
+return 0: - causes the main function to terminate + indicates that the main function returns a value of 0
