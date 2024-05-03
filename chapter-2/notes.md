@@ -69,3 +69,4 @@ profit = 2500.48f;
 example: `scanf("%d", &i);`
 - reads an integer and stores it into variable "i".
 
+
