@@ -9,3 +9,11 @@
 - \b Backspace
 - \n Newline
 \
+
+### 4.1 Implementation-Defined Behavior
+- "implementation" - details will be filled in
+
+### Operator Precedence
+Highest + - (Unary) I think this is like the sign stuff
+        * / %
+Lowest: + - (Binary)
